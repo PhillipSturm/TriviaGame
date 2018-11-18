@@ -4,6 +4,15 @@
   background-color: rgba(0, 0, 0, 0);
 }
 
+h1 {
+  background-color: #b38f00;
+  border-radius: 10px;
+}
+.btn {
+  background-color: #b38f00;
+  border-color: black;
+}
+
 .main-button-container {
   margin-top: 175px;
   max-width: 610px;
@@ -16,7 +25,7 @@
 }
 
 .answer:hover {
-  background: pink;
+  background: #b38f00;
 }
 
 .answer {
@@ -47,4 +56,10 @@
 body {
   background-image: url("../images/Restaurant.png");
   color: white;
+}
+
+.row{
+  background-color: black;
+  border-radius: 25px;
+  opacity: .9;
 }
