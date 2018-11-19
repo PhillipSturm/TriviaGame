@@ -40,11 +40,8 @@ h1 {
 img {
   height: 200px;
   width: 300px;
+  margin-bottom: 50px;
 }
-
-/* .img-wrong {
-  margin-top: 40px;
-} */
 
 .first-answer {
   margin-top: 40px;
