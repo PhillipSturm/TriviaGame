@@ -1,6 +1,6 @@
 # TriviaGame #
 
-## Live Link https://phillipsturm.github.io/TriviaGame/ ##
+## Live Link: https://phillipsturm.github.io/TriviaGame/ ##
 
 ## Overview ##
 Are you a foodie? Test your knowledge against this quiz!
