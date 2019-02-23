@@ -8,42 +8,42 @@
         {
             question: "1) Which of the following is not a favorable adjective when discussing wine?",
             answers: ["  Fat  ", "  Flinty  ","  Leggy  ", "  Vigorous  "],
-            correctAnswer: "Fat"
+            correctAnswer: "  Fat . "
         },
         {
             question: "2) Which phrase is used in restaurants to refer to being out of an item? ",
             answers: ["  404  ", "  86  ", "  Slim  ", "  56  "],
-            correctAnswer: "86"
+            correctAnswer: "  86  "
         },
         {
             question: "3) Which ingredient is not essential in a margarita?",
             answers: ["  Orange Liqueur  ", "  Tequila  ", "  Simple Syrup  ", "  Lime Juice  "],
-            correctAnswer: "Simple Syrup"
+            correctAnswer: "  Simple Syrup  "
         },
         {
             question: "4) What year did the oldest restaurant in Chicago Open?",
             answers: ["  1909  ", "  1907  ", "  1881  ", "  1892  "],
-            correctAnswer: "1881"
+            correctAnswer: "  1881  "
         },
         {
             question: "5) What is Huitlacoche?",
             answers: ["  Argentinian Candy  ", "  Brazilian Fish  ", "  Peruvian Root Vegetable  ", "  Mexican Truffle  "],
-            correctAnswer: "Mexican Truffle"
+            correctAnswer: "  Mexican Truffle  "
         },
         {
             question: "6) Which apple variety was designed at the University of Minnesota?",
             answers: ["  Fuji  ", "  Honeycrisp  ", "  McIntosh Red  ", "  Golden Delicious  "],
-            correctAnswer: "Honeycrisp"
+            correctAnswer: "  Honeycrisp  "
         },
         {
             question: "7) Which country produces the most potatoes?",
             answers: ["  United States  ", "  China  ", "  Ireland  ", "  Russia  "],
-            correctAnswer: "China"
+            correctAnswer: "  China  "
         },
         {
             question: "8) In the United States, about how much beer does the average person drink each year?",
             answers: ["  24 Pints  ","  24 Quarts  ", "  24 Gallons  ", "  24 Gills  "],
-            correctAnswer: "24 Gallons"
+            correctAnswer: "  24 Gallons  "
         }
 
     ];
