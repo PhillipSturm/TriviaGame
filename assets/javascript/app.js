@@ -8,7 +8,7 @@
         {
             question: "1) Which of the following is not a favorable adjective when discussing wine?",
             answers: ["  Fat  ", "  Flinty  ","  Leggy  ", "  Vigorous  "],
-            correctAnswer: "  Fat . "
+            correctAnswer: "  Fat  "
         },
         {
             question: "2) Which phrase is used in restaurants to refer to being out of an item? ",
